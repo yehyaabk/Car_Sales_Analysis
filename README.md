@@ -70,7 +70,7 @@ After exploring the dataset, the following cleaning steps were applied before an
 
 #### 3a. Top Selling Models
 
-![Top Selling Models per Brand](images\top_4_modelespng.png)
+![Top Selling Models per Brand](images/top_4_modelespng.png)
 
 **Insights:**
 - The **Mercedes-Benz E-Class** (~200 units) is the single best-selling model across all brands.
@@ -79,7 +79,7 @@ After exploring the dataset, the following cleaning steps were applied before an
 
 #### 3b. Engine Type Distribution
 
-![Engine Types per Brand](images\engine_types_for_top_4_sold_carts.png)
+![Engine Types per Brand](images/engine_types_for_top_4_sold_carts.png)
 
 **Insights:**
 - **Volkswagen and Mercedes-Benz** are diesel-dominant, consistent with European driving culture and long-distance efficiency needs.
@@ -88,7 +88,7 @@ After exploring the dataset, the following cleaning steps were applied before an
 
 #### 3c. Top Manufacturing Years
 
-![Manufacturing Years per Brand](images\top_years_by_4_brands.png)
+![Manufacturing Years per Brand](images/top_years_by_4_brands.png)
 
 **Insights:**
 - **Volkswagen** listings peak around **2011–2012**, indicating a strong mid-2010s purchase cohort now entering resale.
@@ -99,7 +99,7 @@ After exploring the dataset, the following cleaning steps were applied before an
 
 ### 4. Average Price by Fuel Type & Drive
 
-![Average Price by Fuel Type and Drive](images\average_price_1.png)
+![Average Price by Fuel Type and Drive](images/average_price_1.png)
 
 **Insights:**
 - **Full-drive (4WD)** vehicles command the highest prices across all fuel types — peaking at **$40,618** for "Other" fuel types.
@@ -111,7 +111,7 @@ After exploring the dataset, the following cleaning steps were applied before an
 
 ### 5. Average Price by Mileage & Car Brand
 
-![Average Price by Mileage and Brand](images\average_price_2.png)
+![Average Price by Mileage and Brand](images/verage_price_2.png)
 
 **Insights:**
 - **Mercedes-Benz** shows the most dramatic mileage-price spread: low-mileage units average **~$56k** vs. ~$12k for high-mileage.
@@ -122,7 +122,7 @@ After exploring the dataset, the following cleaning steps were applied before an
 
 ### 6. Correlation Heatmap
 
-![Correlation Heatmap](images\correlation_matrix.png)
+![Correlation Heatmap](images/correlation_matrix.png)
 
 **Insights:**
 - **Year ↔ Price**: Moderate positive correlation — newer cars fetch higher prices, as expected.
