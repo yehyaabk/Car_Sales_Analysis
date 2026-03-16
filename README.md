@@ -2,7 +2,7 @@
 
 ##  Introduction
 
-This project analyzes a dataset of **used cars sold in Ukraine before 2018**, sourced from a Ukrainian automotive marketplace. The dataset captures real-world listings and transactions, providing insight into buyer preferences, pricing trends, and vehicle characteristics in the Ukrainian  car market.
+This project analyzes a dataset of **used cars sold in Ukraine**, sourced from a Ukrainian automotive marketplace. The dataset captures real-world listings and transactions, providing insight into buyer preferences, pricing trends, and vehicle characteristics in the Ukrainian  car market.
 
 ### Dataset Overview
 
@@ -111,7 +111,7 @@ After exploring the dataset, the following cleaning steps were applied before an
 
 ### 5. Average Price by Mileage & Car Brand
 
-![Average Price by Mileage and Brand](images/verage_price_2.png)
+![Average Price by Mileage and Brand](images/average_price_2.png)
 
 **Insights:**
 - **Mercedes-Benz** shows the most dramatic mileage-price spread: low-mileage units average **~$56k** vs. ~$12k for high-mileage.
